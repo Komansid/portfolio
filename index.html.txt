@@ -1,0 +1,77 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Your Name - Consultant</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #004080;
+      color: #fff;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    section {
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 20px;
+      background: #fff;
+      border-radius: 8px;
+    }
+    h1, h2 {
+      margin-top: 0;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      font-size: 0.9em;
+      color: #666;
+    }
+    a {
+      color: #004080;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Koman & Sid</h1>
+    <p>App & Website Development | Power BI | Looker Analytics Consultant</p>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>I help businesses build custom apps, websites, and analytics dashboards that drive growth and smarter decisions. With expertise in Power BI, Looker, and modern web/mobile development, I deliver tailored solutions to help you reach your goals.</p>
+  </section>
+
+  <section>
+    <h2>Services</h2>
+    <ul>
+      <li>Custom Web & App Development</li>
+      <li>Power BI & Looker Dashboard Development</li>
+      <li>Website Performance Optimization</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Portfolio</h2>
+    <p>Coming soon! Check back for examples of my work in apps, websites, and analytics dashboards.</p>
+  </section>
+
+  <section>
+    <h2>Contact</h2>
+    <p>Email me at <a href="mailto:youremail@example.com">youremail@example.com</a> or connect on <a href="https://linkedin.com">LinkedIn</a>.</p>
+  </section>
+
+  <footer>
+    &copy; 2025 Your Name
+  </footer>
+</body>
+</html>
